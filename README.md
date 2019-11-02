@@ -7,7 +7,7 @@ first, define module variable
 ```js
 var tbl = require ('tbl.js');
 ```
-Get info of bots by using getBot () function
+Get info of bots
 ```js
 tbl.getBot ('BotID').then (async (BotInfo) => {
   console.log (BotInfo);
