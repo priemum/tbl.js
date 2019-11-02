@@ -31,7 +31,7 @@ lib: String // Library of bot
 prefix: String // Prefix of bot
 shortdesc: String // Short description of bot in TBL site
 longdesc: String // Long description of bot in TBL site (contains markdown & html)
-support: String or Boolean // Support invite url , if doesn't returns false
+support: String or Boolean // Support invite url , if haven't returns false
 owner: Object // Owner object contains (id, name)
 invite: String // Invite link of the bot (perms 8)
 verified: Boolean // returns true if bot is verified and false if not
