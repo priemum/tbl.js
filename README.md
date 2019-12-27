@@ -23,7 +23,7 @@ tbl.hasVoted ('BotID', 'UserID').then (async (BotInfo) => {
 ```
 # botInfo Object
 returns Object contains: 
-```js
+```jsf
 id: String // Bot userid
 username: String // Bot username
 avatar: String // Bot avatarUrl
